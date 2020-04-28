@@ -34,3 +34,11 @@ Current Features:
 ● either play on dedicated servers or host your own private sessions ingame
 
 End of information copied from Steam. Let me know if this information should be removed from this document.
+
+# Starting a game
+
+Click on the **Play** button in Steam.
+
+You start in the Crews Quarters.
+
+
